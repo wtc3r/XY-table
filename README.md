@@ -27,7 +27,7 @@ __Design criteria__
 * [Width](#DC-width): 1300mm
 * [Length](#DC-length): 650mm
 * [Feedthrough](#DC-feedthrough): plate material longer then 650mm can manually be feedthrough the length side of the platform
-* [Feedthrough-height](#DC-feedthrough-height): 45mmm
+* [Feedthrough-height](#DC-feedthrough-height): 45mm
 
 
 ### Materials
@@ -36,6 +36,7 @@ To fit the smallest common width of plate material the length of the platform wi
 The maximum available thickness of plate material is 40mm. Adding 5mm results in a __feedthrough height of 45mm__.<a id="DC-feedghrough-height"></a>
 
 ### Marking
+Description
 
 <a id="dev"></a>
 ## Development
