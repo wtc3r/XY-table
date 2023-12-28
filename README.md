@@ -54,9 +54,10 @@ Second item content goes here
 
 <a id="eng"></a>
 ## Engineering
-[Stage design](#eng-stage)
-[XY translation](#eng-XY)
-[Z translation](#eng-Z)
+
+- [Stage design](#eng-stage)
+- [XY translation](#eng-XY)
+- [Z translation](#eng-Z)
 
 <a id="eng-stage"></a>
 ### Stage design
