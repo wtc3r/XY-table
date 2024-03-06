@@ -55,10 +55,11 @@ Second item content goes here
 
 <a id="dev-control"></a>
 ### Control function development
-Use a Arduino with CNC shield to control up to four steppers
-Program GRBL on the arduino to run gcode from external source (laptop)
-Use UGS to interface between Arduino-GRBL and laptop
-Use EstlCAM to convert 3D model to gcode sequency (https://www.youtube.com/watch?v=xw0ZFf75lAM https://www.cnc-step.nl/cnc-software-cad-cam-frezen-software/estlcam/)
+- Use a Arduino with CNC shield to control up to four steppers
+- Program GRBL on the arduino to run gcode from external source (laptop)
+- Use UGS to interface between Arduino-GRBL and laptop
+- Use EstlCAM to convert 3D model to gcode sequency (https://www.youtube.com/watch?v=xw0ZFf75lAM https://www.cnc-step.nl/cnc-software-cad-cam-frezen-software/estlcam/)
+- Use OpenSCAD or FreeCAD for 3D model design
 
 <a id="eng"></a>
 ## Engineering
