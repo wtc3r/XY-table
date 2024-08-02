@@ -7,6 +7,7 @@ automated XY stage that will be developed to make markings, laser-marks, laser-c
 - [Engineering](#eng)
 - [Parts & costs](#parts)
 - [Product](#prod)
+- [CNC3018 installation and use](#3018)
 
 <!-- headings -->
 <a id="goal"></a>
@@ -93,3 +94,10 @@ In this section an overview of parts, where to buy them, and cost is given.
 
 <a id="prod"></a>
 ## Final product
+
+<a id="3018"></a>
+## Kant en klare CNC tafel met 500W freeskop en 5.5W UV laser
+
+De volgende stappen zijn genomen om deze te installeren
+* Universal GCode sender software: https://winder.github.io/ugs_website/download/
+* Vooraf ingestelde homing sequence van versie 2.1.8 werkt direct.
