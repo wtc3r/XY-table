@@ -100,4 +100,11 @@ In this section an overview of parts, where to buy them, and cost is given.
 
 De volgende stappen zijn genomen om deze te installeren
 * Universal GCode sender software: https://winder.github.io/ugs_website/download/
-* Vooraf ingestelde homing sequence van versie 2.1.8 werkt direct.
+* Vooraf ingestelde homing sequence van versie 2.1.8 werkt direct. Wel eerst x,y & z as buiten bereik van de eindschakelaar zetten.
+* Firmware bestand opgeslagen op .git
+Laser (https://docs.sainsmart.com/article/wzvu9798tc-genmitsu-3018-pro-5-5-w-laser-module-user-guide)
+* Aansturing xyz werkt met ugs, maar laser aansturing niet standaard. Het is mogelijk om macro's aan te maken.
+* sainsmart raad lasergrbl aan (https://lasergrbl.com/download/). Hieruit kunnen macro codes gekopieerd worden na importeren custom buttons
+
+3D model naar gcode programma
+* grijswaardes naar diepte en gcode (https://www.scorchworks.com/Dmap2gcode/dmap2gcode.html)
