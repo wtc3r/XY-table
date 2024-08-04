@@ -109,5 +109,6 @@ Laser (https://docs.sainsmart.com/article/wzvu9798tc-genmitsu-3018-pro-5-5-w-las
 3D model naar gcode programma
 * grijswaardes naar diepte en gcode (https://www.scorchworks.com/Dmap2gcode/dmap2gcode.html)
 * .stl naar gcode (https://camotics.org/download.html)
+
 Gcode list
 * https://www.machinistguides.com/g-codes/
