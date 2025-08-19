@@ -112,4 +112,5 @@ Laser (https://docs.sainsmart.com/article/wzvu9798tc-genmitsu-3018-pro-5-5-w-las
 
 Gcode list
 * https://www.machinistguides.com/g-codes/
+* https://github.com/gnea/grbl/wiki/Grbl-v1.1-Commands
 * werkt niet met CNC3018: G41 G42 G03 H08
