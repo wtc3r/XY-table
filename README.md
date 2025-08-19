@@ -112,3 +112,4 @@ Laser (https://docs.sainsmart.com/article/wzvu9798tc-genmitsu-3018-pro-5-5-w-las
 
 Gcode list
 * https://www.machinistguides.com/g-codes/
+* werkt niet met CNC3018: G41 G42 G03 H08
